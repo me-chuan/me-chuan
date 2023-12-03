@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @me-chuan
-- 👀 I’m interested in all kinds of video games(except car racing games).And I'm also interested in knowledge of computer hardware,software,game development and programming.(But I am a very very rookie beginner.lol)
+- 👀 I’m interested in all kinds of video games(except car racing games).And I'm also interested in knowledge of computer hardware,software,game development and programming.(But I am a novice.lol)
 - 🌱 I’m currently learning cpp in university (I'm a freshman).At the same time I enrol the CS50 of Harvard to strenthen my codeforce.
 - 💞️ I’m looking to collaborate on ...Maybe.But for now,I can't think of a good project to collaborate with others.(Due to my inexperienced skills)So sad.
 - 📫 How to reach me ...My frequency of checking email boxes is pretty random,mainly based on my frequency of feeling bored.I have two email,3376219114@qq.com and lemonchuan@126.com,via both of which you can reach me.
